@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "firebase": "^9.9.2",
+    "nodemon": "^2.0.19"
+  },
+  "name": "apis",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "scripts": {
+    "start":"npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
